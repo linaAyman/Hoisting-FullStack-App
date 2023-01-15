@@ -71,6 +71,6 @@ The Udagram full stack application is hosted on the Amazon Web Services Cloud wi
 
 ## Documentation
 
-Documentation about the architecture, infrastructure description, app dependencies, and the pipeline process are found inside the [docs] (https://github.com/linaAyman/Hoisting-FullStack-App/tree/master/docs) folder.
+Documentation about the architecture, infrastructure description, app dependencies, and the pipeline process are found inside the [documentation] (https://github.com/linaAyman/Hoisting-FullStack-App/tree/main/documentation) folder.
 
 ---
