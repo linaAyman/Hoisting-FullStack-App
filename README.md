@@ -1,5 +1,6 @@
 # Hosting a Full-Stack Application
 
+[![CircleCI](https://circleci.com/gh/circleci/circleci-docs.svg?style=svg)](https://app.circleci.com/pipelines/github/linaAyman/Hoisting-FullStack-App)
 
 
 ### **udagram is a full stack web application hosted on AWS, it's the final project under Udacity's Full Stack Nanodegree Program.**
